@@ -1,0 +1,23 @@
+{
+  "name": "issspotter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NelliBtn/iss_spotter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NelliBtn/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/NelliBtn/iss_spotter#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
